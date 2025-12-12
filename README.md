@@ -1,4 +1,4 @@
-# Openthread ESP32 firmare builder
+# Openthread ESP32 firmware build environment
 
 This project implements the build environment for the following incomplete and inaccurate guide:
 
